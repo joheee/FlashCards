@@ -1,0 +1,5 @@
+export const MYSQL_HOST = 'localhost'
+export const MYSQL_PORT = '3306'
+export const MYSQL_DB = 'joocards'
+export const MYSQL_USER = 'root'
+export const MYSQL_PASS = ''
